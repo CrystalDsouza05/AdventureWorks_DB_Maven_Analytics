@@ -166,6 +166,7 @@ This project uses over 30 custom DAX measures to calculate and visualize KPIs in
 | `Crystal_Maven_AdventureWorks_PBI_DB.pdf` | Dashboard overview (PDF export) |
 | `Maven_AdventureWorks_PBI_Course.pbix` | Power BI Dashboard (.pbix) |
 | `DAX_Measures_List.xlsx` | DAX calculations used in the model |
+| `Crystal Maven PBI Course - Consolidated` | Consolidated PDF of My Certificate, Badge and Score
 | `README.md` | Documentation file (this file) |
 
 ---
