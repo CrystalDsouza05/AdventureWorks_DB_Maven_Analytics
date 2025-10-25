@@ -174,3 +174,9 @@ This project uses over 30 custom DAX measures to calculate and visualize KPIs in
 ## 🏁 Conclusion  
 
 This Power BI project demonstrates how **data modeling**, **DAX**, and **visual design** can transform raw sales data into actionable insights. The dashboard highlights AdventureWorks’ performance story through clear, interactive visuals that help drive strategic business decisions.
+
+<img width="824" height="632" alt="image" src="https://github.com/user-attachments/assets/87959e9e-89c3-4209-b88f-531ebde7c4b8" />
+
+[View Credential](https://certificates.mavenanalytics.io/b726a5b5-c9b4-4d24-a5ab-5533ba69d15e#acc.eZoRQjpn)
+
+
